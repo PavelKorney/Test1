@@ -4,5 +4,12 @@ public class Main {
         System.out.println("Hi!");
         System.out.println("Hi Amigo!");
         System.out.println("Hi Amigo Serg!");
+        String s = "Hello!";
+        for (int i = 0; i <10 ; i++) {
+            if (i<10){
+                System.out.println(s);
+            }
+
+        }
     }
 }
