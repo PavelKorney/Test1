@@ -12,7 +12,7 @@ public class Main {
             System.out.println("!!!!!!!!!!!!!!!!!!");
             System.out.println("World");
             System.out.println("Pavel");
-            System.out.println("11111");
+            System.out.println("11111 ");
 
         }
     }
