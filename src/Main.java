@@ -9,6 +9,7 @@ public class Main {
             if (i<10){
                 System.out.println(s);
             }
+            System.out.println("!!!!!!!!!!!!!!!!!");
 
         }
     }
